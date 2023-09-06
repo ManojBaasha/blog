@@ -5,4 +5,4 @@ nav:
   - About: about.md
 
 theme:
-    name: dracula
+    name: material
