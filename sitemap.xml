@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
+         <loc>https://manojbaasha.github.io/blog/</loc>
          <lastmod>2023-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/about/</loc>
+         <loc>https://manojbaasha.github.io/blog/about/</loc>
          <lastmod>2023-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/blog/</loc>
+         <loc>https://manojbaasha.github.io/blog/blog/</loc>
          <lastmod>2023-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/blog/2022/01/31/hello-world/</loc>
+         <loc>https://manojbaasha.github.io/blog/blog/2022/01/31/hello-world/</loc>
          <lastmod>2023-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/blog/archive/2022/</loc>
+         <loc>https://manojbaasha.github.io/blog/blog/archive/2022/</loc>
          <lastmod>2023-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/blog/category/hello/</loc>
+         <loc>https://manojbaasha.github.io/blog/blog/category/hello/</loc>
          <lastmod>2023-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/blog/category/world/</loc>
+         <loc>https://manojbaasha.github.io/blog/blog/category/world/</loc>
          <lastmod>2023-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
