@@ -1,11 +1,20 @@
 site_name: Manoj in Binary Land
-site_url: https://example.com/
+site_url: https://manojbaasha.github.io/blog/
+site_author: Manoj Elango
+site_description: >-
+  Welcome to Binary Land where I share my experience in coding and some of my thoughts and opinions in newer technologies, tools and frameworks!
+
+# Repository
+repo_name: ManojBaasha/blog
+repo_url: https://github.com/ManojBaasha/blog
+
 plugins:
   - blog:
       blog_dir: blog 
       blog_toc: true
   - search
   - tags
+  
   
 nav:
   - Home: index.md
@@ -31,5 +40,6 @@ theme:
       text: Fira Code
     features:
       - navigation.top
+    
 
     
