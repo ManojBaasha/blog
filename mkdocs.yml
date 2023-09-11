@@ -1,8 +1,17 @@
 site_name: Manoj in Binary Land
 site_url: https://example.com/
+plugins:
+  - blog:
+      blog_dir: blog 
+      blog_toc: true
+  - search
+  - tags
+  
 nav:
   - Home: index.md
   - About: about.md
+  - Blog:
+    - blog/index.md
 
 theme:
     name: material
@@ -20,5 +29,7 @@ theme:
         name: Switch to dark mode
     font:
       text: Fira Code
+    features:
+      - navigation.top
 
     
