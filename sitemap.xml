@@ -16,12 +16,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/blog/about/</loc>
+         <loc>https://example.com/blog/2022/01/31/hello-world/</loc>
          <lastmod>2023-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/blog/posts/hello-world/</loc>
+         <loc>https://example.com/blog/archive/2022/</loc>
+         <lastmod>2023-09-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/blog/category/hello/</loc>
+         <lastmod>2023-09-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/blog/category/world/</loc>
          <lastmod>2023-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
