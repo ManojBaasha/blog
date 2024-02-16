@@ -2,37 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://manojbaasha.github.io/blog/</loc>
-         <lastmod>2023-09-11</lastmod>
+         <lastmod>2024-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://manojbaasha.github.io/blog/about/</loc>
-         <lastmod>2023-09-11</lastmod>
+         <lastmod>2024-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://manojbaasha.github.io/blog/blog/</loc>
-         <lastmod>2023-09-11</lastmod>
+         <lastmod>2024-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://manojbaasha.github.io/blog/blog/2024/02/14/just-another-day/</loc>
+         <lastmod>2024-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://manojbaasha.github.io/blog/blog/2022/01/31/hello-world/</loc>
-         <lastmod>2023-09-11</lastmod>
+         <lastmod>2024-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://manojbaasha.github.io/blog/blog/archive/2024/</loc>
+         <lastmod>2024-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://manojbaasha.github.io/blog/blog/archive/2022/</loc>
-         <lastmod>2023-09-11</lastmod>
+         <lastmod>2024-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://manojbaasha.github.io/blog/blog/category/me/</loc>
+         <lastmod>2024-02-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://manojbaasha.github.io/blog/blog/category/journal/</loc>
+         <lastmod>2024-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://manojbaasha.github.io/blog/blog/category/hello/</loc>
-         <lastmod>2023-09-11</lastmod>
+         <lastmod>2024-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://manojbaasha.github.io/blog/blog/category/world/</loc>
-         <lastmod>2023-09-11</lastmod>
+         <lastmod>2024-02-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
